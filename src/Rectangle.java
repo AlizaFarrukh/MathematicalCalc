@@ -5,7 +5,7 @@ public class Rectangle {
 
 	
 	public  double  area(double w, double h) {
-		return 2*w*h;
+		return 2*4*w*h;
 	}
 	
 	public  double totalDistance(double w , double h) {
